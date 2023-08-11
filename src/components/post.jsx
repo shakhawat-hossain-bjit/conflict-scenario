@@ -1,7 +1,10 @@
+import View from "./View";
+
 const Post = () => {
     return (
         <div>
-            this is a new post
+            Hello From Shakhawat
+            <View/>
         </div>
     )
 }
